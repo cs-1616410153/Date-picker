@@ -1,0 +1,32 @@
+.table {
+width: 305px;
+height: 319px;
+background: rgb(255,255,255);
+border: 1px solid rgb(151, 151, 151);
+border-radius: 0px;
+}
+
+.week {
+width:31px;
+height: 20px;
+color: rgb(77, 77, 77);
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+letter-spacing: 20px;
+line-height: 20px;
+}
+
+.dates {
+width: 31px;
+height: 20px;
+color: rgb(77, 77, 77);
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+letter-spacing: 20px;
+line-height: 20px;
+border-spacing: 15px;
+}
+
+
